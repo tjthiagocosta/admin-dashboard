@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "author": "Thiago COsta",
-  "homepage": "https://tjthiagocosta.github.io",
+  "homepage": "https://tjthiagocosta.github.io/admin-dashboard/",
   "dependencies": {
     "@emotion/react": "^11.9.0",
     "@emotion/styled": "^11.8.1",
@@ -46,5 +46,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
   }
 }
